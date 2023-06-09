@@ -108,6 +108,8 @@ public class MainActivity extends AppCompatActivity {
 
 ### OUTPUT:
 
+![](https://github.com/sreevarshad/MAD---12/blob/main/mmm%2012.png)
+
 <img src="https://github.com/KATHIR1611/MAD---12/blob/main/ui%205.png" width=400 height=450>
 
 ### RESULT:
